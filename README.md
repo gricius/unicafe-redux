@@ -86,3 +86,10 @@ In the tests, make sure that the reducer is an immutable function with the deep-
 Start by expanding the reducer so that both tests pass. Then add the rest of the tests, and finally the functionality that they are testing.
 
 A good model for the reducer is the <a href="https://fullstackopen.com/en/part6/flux_architecture_and_redux#pure-functions-immutable">redux-notes</a> example above.
+
+# 6.2: unicafe revisited, step2
+Now implement the actual functionality of the application.
+
+Your application can have a modest appearance, nothing else is needed but buttons and the number of reviews for each type:
+<img src='https://fullstackopen.com/static/f3e72d9a63da63ce780e21d8f249597a/5a190/50new.png'>
+
